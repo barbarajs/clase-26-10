@@ -1,0 +1,729 @@
+nt,Continent,ID Country,Country,ID Year,Year,ID HS0,HS0,FOB US
+2,África,101,Senegal,2012,2012,02,Vegetable Products,21120.0
+2,África,101,Senegal,2013,2013,02,Vegetable Products,79074.125
+2,África,101,Senegal,2014,2014,02,Vegetable Products,32923.80078125
+2,África,101,Senegal,2016,2016,02,Vegetable Products,30210.0
+2,África,102,Gambia,2014,2014,02,Vegetable Products,33710.0
+2,África,104,Guinea,2014,2014,02,Vegetable Products,92736.0
+2,África,104,Guinea,2016,2016,02,Vegetable Products,27360.0
+2,África,105,Sierra Leona,2016,2016,02,Vegetable Products,15435.0
+2,África,107,Costa de Marfil,2013,2013,02,Vegetable Products,60570.0
+2,África,107,Costa de Marfil,2014,2014,02,Vegetable Products,107209.671875
+2,África,107,Costa de Marfil,2015,2015,02,Vegetable Products,58464.0
+2,África,107,Costa de Marfil,2016,2016,02,Vegetable Products,145160.125
+2,África,108,Ghana,2011,2011,02,Vegetable Products,95557.6015625
+2,África,108,Ghana,2012,2012,02,Vegetable Products,72960.0
+2,África,108,Ghana,2013,2013,02,Vegetable Products,38760.0
+2,África,108,Ghana,2015,2015,02,Vegetable Products,30189.400390625
+2,África,109,Togo,2011,2011,02,Vegetable Products,21432.0
+2,África,109,Togo,2012,2012,02,Vegetable Products,20184.23046875
+2,África,109,Togo,2013,2013,02,Vegetable Products,83068.6953125
+2,África,109,Togo,2014,2014,02,Vegetable Products,104074.21875
+2,África,109,Togo,2016,2016,02,Vegetable Products,90639.484375
+2,África,111,Nigeria,2011,2011,02,Vegetable Products,19656.759765625
+2,África,111,Nigeria,2012,2012,02,Vegetable Products,7931.0
+2,África,111,Nigeria,2013,2013,02,Vegetable Products,37484.0
+2,África,111,Nigeria,2014,2014,02,Vegetable Products,204306.40625
+2,África,111,Nigeria,2015,2015,02,Vegetable Products,47543.8984375
+2,África,111,Nigeria,2016,2016,02,Vegetable Products,73672.8984375
+2,África,112,Sudáfrica,2011,2011,02,Vegetable Products,1103295.375
+2,África,112,Sudáfrica,2012,2012,02,Vegetable Products,1944614.375
+2,África,112,Sudáfrica,2013,2013,02,Vegetable Products,1372793.5
+2,África,112,Sudáfrica,2014,2014,02,Vegetable Products,3658039.25
+2,África,112,Sudáfrica,2015,2015,02,Vegetable Products,969082.75
+2,África,112,Sudáfrica,2016,2016,02,Vegetable Products,1927938.5
+2,África,115,Malawi,2011,2011,02,Vegetable Products,13945.919921875
+2,África,115,Malawi,2012,2012,02,Vegetable Products,3789.5
+2,África,116,Zimbabwe,2011,2011,02,Vegetable Products,65758.75
+2,África,116,Zimbabwe,2012,2012,02,Vegetable Products,120960.0
+2,África,117,Zambia,2011,2011,02,Vegetable Products,9424.1201171875
+2,África,117,Zambia,2012,2012,02,Vegetable Products,5074.22998046875
+2,África,117,Zambia,2015,2015,02,Vegetable Products,15549.98046875
+2,África,119,Mauricio,2012,2012,02,Vegetable Products,92772.0
+2,África,119,Mauricio,2013,2013,02,Vegetable Products,18532.580078125
+2,África,119,Mauricio,2014,2014,02,Vegetable Products,53270.96875
+2,África,120,Madagascar,2014,2014,02,Vegetable Products,1884.199951171875
+2,África,122,Swazilandia,2011,2011,02,Vegetable Products,1575.3699951171875
+2,África,122,Swazilandia,2012,2012,02,Vegetable Products,1847.5
+2,África,123,Sudán,2011,2011,02,Vegetable Products,262932.21875
+2,África,123,Sudán,2012,2012,02,Vegetable Products,211308.40625
+2,África,123,Sudán,2013,2013,02,Vegetable Products,245095.875
+2,África,123,Sudán,2014,2014,02,Vegetable Products,193221.28125
+2,África,123,Sudán,2015,2015,02,Vegetable Products,79955.921875
+2,África,123,Sudán,2016,2016,02,Vegetable Products,575880.5
+2,África,124,Egipto,2011,2011,02,Vegetable Products,11522215.0
+2,África,124,Egipto,2012,2012,02,Vegetable Products,10964032.0
+2,África,124,Egipto,2013,2013,02,Vegetable Products,7986224.5
+2,África,124,Egipto,2014,2014,02,Vegetable Products,5954016.0
+2,África,124,Egipto,2015,2015,02,Vegetable Products,4376042.5
+2,África,124,Egipto,2016,2016,02,Vegetable Products,3135971.5
+2,África,125,Libia,2011,2011,02,Vegetable Products,123408.3203125
+2,África,125,Libia,2012,2012,02,Vegetable Products,4561582.0
+2,África,125,Libia,2013,2013,02,Vegetable Products,6072843.5
+2,África,125,Libia,2014,2014,02,Vegetable Products,5110834.0
+2,África,125,Libia,2015,2015,02,Vegetable Products,3494378.75
+2,África,125,Libia,2016,2016,02,Vegetable Products,2983740.25
+2,África,126,Túnez,2011,2011,02,Vegetable Products,322177.5
+2,África,126,Túnez,2012,2012,02,Vegetable Products,789894.625
+2,África,126,Túnez,2013,2013,02,Vegetable Products,567095.0
+2,África,126,Túnez,2014,2014,02,Vegetable Products,813113.0
+2,África,126,Túnez,2015,2015,02,Vegetable Products,717272.0625
+2,África,126,Túnez,2016,2016,02,Vegetable Products,1392940.5
+2,África,127,Argelia,2011,2011,02,Vegetable Products,2725276.0
+2,África,127,Argelia,2012,2012,02,Vegetable Products,2282281.25
+2,África,127,Argelia,2013,2013,02,Vegetable Products,2547396.5
+2,África,127,Argelia,2014,2014,02,Vegetable Products,6485691.5
+2,África,127,Argelia,2015,2015,02,Vegetable Products,3352224.0
+2,África,127,Argelia,2016,2016,02,Vegetable Products,2294861.75
+2,África,128,Marruecos,2011,2011,02,Vegetable Products,689805.9375
+2,África,128,Marruecos,2012,2012,02,Vegetable Products,147434.09375
+2,África,128,Marruecos,2013,2013,02,Vegetable Products,643869.6875
+2,África,128,Marruecos,2014,2014,02,Vegetable Products,363749.1875
+2,África,128,Marruecos,2015,2015,02,Vegetable Products,96214.0
+2,África,128,Marruecos,2016,2016,02,Vegetable Products,2512847.75
+2,África,131,Niger,2015,2015,02,Vegetable Products,32659.19921875
+2,África,131,Niger,2016,2016,02,Vegetable Products,35682.0
+2,África,134,Mauritania,2011,2011,02,Vegetable Products,157560.03125
+2,África,134,Mauritania,2012,2012,02,Vegetable Products,245670.03125
+2,África,134,Mauritania,2013,2013,02,Vegetable Products,398340.90625
+2,África,134,Mauritania,2014,2014,02,Vegetable Products,267124.625
+2,África,134,Mauritania,2015,2015,02,Vegetable Products,91790.203125
+2,África,134,Mauritania,2016,2016,02,Vegetable Products,43147.48046875
+2,África,135,Tanzania,2011,2011,02,Vegetable Products,29916.0
+2,África,135,Tanzania,2015,2015,02,Vegetable Products,2100.0
+2,África,137,Kenya,2011,2011,02,Vegetable Products,717399.25
+2,África,137,Kenya,2012,2012,02,Vegetable Products,563905.4375
+2,África,137,Kenya,2013,2013,02,Vegetable Products,537487.8125
+2,África,137,Kenya,2014,2014,02,Vegetable Products,178904.8125
+2,África,137,Kenya,2015,2015,02,Vegetable Products,36614.44140625
+2,África,137,Kenya,2016,2016,02,Vegetable Products,17158.5703125
+2,África,139,Etiopia,2014,2014,02,Vegetable Products,49800.25
+2,África,139,Etiopia,2015,2015,02,Vegetable Products,40843.25
+2,África,139,Etiopia,2016,2016,02,Vegetable Products,86794.6015625
+2,África,140,Angola,2011,2011,02,Vegetable Products,559200.0
+2,África,140,Angola,2012,2012,02,Vegetable Products,1221904.0
+2,África,140,Angola,2015,2015,02,Vegetable Products,137760.0
+2,África,145,Gabón,2015,2015,02,Vegetable Products,19200.0
+2,África,145,Gabón,2016,2016,02,Vegetable Products,58436.98046875
+2,África,150,Benin,2011,2011,02,Vegetable Products,374314.96875
+2,África,150,Benin,2012,2012,02,Vegetable Products,403612.1875
+2,África,150,Benin,2013,2013,02,Vegetable Products,618211.0
+2,África,150,Benin,2014,2014,02,Vegetable Products,605829.625
+2,África,150,Benin,2015,2015,02,Vegetable Products,569220.25
+2,África,150,Benin,2016,2016,02,Vegetable Products,168995.5625
+2,África,155,Djibouti,2016,2016,02,Vegetable Products,27540.0
+9,Oceanía,405,Nueva Zelandia,2011,2011,02,Vegetable Products,9345047.0
+9,Oceanía,405,Nueva Zelandia,2012,2012,02,Vegetable Products,9780906.0
+9,Oceanía,405,Nueva Zelandia,2013,2013,02,Vegetable Products,8998211.0
+9,Oceanía,405,Nueva Zelandia,2014,2014,02,Vegetable Products,8914342.0
+9,Oceanía,405,Nueva Zelandia,2015,2015,02,Vegetable Products,11645359.0
+9,Oceanía,405,Nueva Zelandia,2016,2016,02,Vegetable Products,12436260.0
+9,Oceanía,406,Australia,2011,2011,02,Vegetable Products,27929716.0
+9,Oceanía,406,Australia,2012,2012,02,Vegetable Products,29032268.0
+9,Oceanía,406,Australia,2013,2013,02,Vegetable Products,37396272.0
+9,Oceanía,406,Australia,2014,2014,02,Vegetable Products,53614024.0
+9,Oceanía,406,Australia,2015,2015,02,Vegetable Products,56907844.0
+9,Oceanía,406,Australia,2016,2016,02,Vegetable Products,72404632.0
+9,Oceanía,412,Papúa Nueva Guinea,2011,2011,02,Vegetable Products,25159.6796875
+9,Oceanía,412,Papúa Nueva Guinea,2012,2012,02,Vegetable Products,57818.87890625
+9,Oceanía,412,Papúa Nueva Guinea,2013,2013,02,Vegetable Products,158440.796875
+9,Oceanía,412,Papúa Nueva Guinea,2014,2014,02,Vegetable Products,32659.19921875
+9,Oceanía,412,Papúa Nueva Guinea,2015,2015,02,Vegetable Products,195955.203125
+9,Oceanía,412,Papúa Nueva Guinea,2016,2016,02,Vegetable Products,32659.19921875
+9,Oceanía,422,Polinesia Francesa,2011,2011,02,Vegetable Products,322406.0625
+9,Oceanía,422,Polinesia Francesa,2012,2012,02,Vegetable Products,112865.4375
+9,Oceanía,422,Polinesia Francesa,2013,2013,02,Vegetable Products,212086.0625
+9,Oceanía,422,Polinesia Francesa,2014,2014,02,Vegetable Products,85803.2890625
+9,Oceanía,422,Polinesia Francesa,2015,2015,02,Vegetable Products,46664.8203125
+9,Oceanía,422,Polinesia Francesa,2016,2016,02,Vegetable Products,40274.3984375
+9,Oceanía,423,Nueva Caledonia,2011,2011,02,Vegetable Products,240226.0
+9,Oceanía,423,Nueva Caledonia,2012,2012,02,Vegetable Products,174081.0
+9,Oceanía,423,Nueva Caledonia,2013,2013,02,Vegetable Products,121360.0
+9,Oceanía,423,Nueva Caledonia,2014,2014,02,Vegetable Products,95542.5
+9,Oceanía,423,Nueva Caledonia,2015,2015,02,Vegetable Products,139060.0
+9,Oceanía,423,Nueva Caledonia,2016,2016,02,Vegetable Products,25410.0
+19,América,201,Venezuela,2011,2011,02,Vegetable Products,112082272.0
+19,América,201,Venezuela,2012,2012,02,Vegetable Products,124811688.0
+19,América,201,Venezuela,2013,2013,02,Vegetable Products,87700496.0
+19,América,201,Venezuela,2014,2014,02,Vegetable Products,78826952.0
+19,América,201,Venezuela,2015,2015,02,Vegetable Products,51578996.0
+19,América,201,Venezuela,2016,2016,02,Vegetable Products,9036682.0
+19,América,202,Colombia,2011,2011,02,Vegetable Products,124901872.0
+19,América,202,Colombia,2012,2012,02,Vegetable Products,152604912.0
+19,América,202,Colombia,2013,2013,02,Vegetable Products,158469952.0
+19,América,202,Colombia,2014,2014,02,Vegetable Products,156944384.0
+19,América,202,Colombia,2015,2015,02,Vegetable Products,123197696.0
+19,América,202,Colombia,2016,2016,02,Vegetable Products,119667344.0
+19,América,203,Trinidad y Tobago,2011,2011,02,Vegetable Products,821953.875
+19,América,203,Trinidad y Tobago,2012,2012,02,Vegetable Products,1007568.4375
+19,América,203,Trinidad y Tobago,2013,2013,02,Vegetable Products,911324.0625
+19,América,203,Trinidad y Tobago,2014,2014,02,Vegetable Products,1417646.875
+19,América,203,Trinidad y Tobago,2015,2015,02,Vegetable Products,759482.4375
+19,América,203,Trinidad y Tobago,2016,2016,02,Vegetable Products,781162.75
+19,América,204,Barbados,2011,2011,02,Vegetable Products,123811.3984375
+19,América,204,Barbados,2012,2012,02,Vegetable Products,91787.7421875
+19,América,204,Barbados,2013,2013,02,Vegetable Products,85831.3984375
+19,América,204,Barbados,2014,2014,02,Vegetable Products,68792.4921875
+19,América,204,Barbados,2015,2015,02,Vegetable Products,135324.171875
+19,América,204,Barbados,2016,2016,02,Vegetable Products,84991.0234375
+19,América,205,Jamaica,2011,2011,02,Vegetable Products,478409.25
+19,América,205,Jamaica,2012,2012,02,Vegetable Products,407473.625
+19,América,205,Jamaica,2013,2013,02,Vegetable Products,534044.6875
+19,América,205,Jamaica,2014,2014,02,Vegetable Products,361472.71875
+19,América,205,Jamaica,2015,2015,02,Vegetable Products,381320.0
+19,América,205,Jamaica,2016,2016,02,Vegetable Products,204988.90625
+19,América,206,República Dominicana,2011,2011,02,Vegetable Products,4726000.0
+19,América,206,República Dominicana,2012,2012,02,Vegetable Products,5648310.5
+19,América,206,República Dominicana,2013,2013,02,Vegetable Products,4168608.0
+19,América,206,República Dominicana,2014,2014,02,Vegetable Products,4745927.0
+19,América,206,República Dominicana,2015,2015,02,Vegetable Products,5785509.0
+19,América,206,República Dominicana,2016,2016,02,Vegetable Products,7653970.5
+19,América,207,Bahamas,2011,2011,02,Vegetable Products,78572.0
+19,América,207,Bahamas,2016,2016,02,Vegetable Products,18803.4609375
+19,América,208,Haití,2011,2011,02,Vegetable Products,3600.0
+19,América,208,Haití,2013,2013,02,Vegetable Products,15876.0
+19,América,209,Cuba,2011,2011,02,Vegetable Products,1009679.375
+19,América,209,Cuba,2012,2012,02,Vegetable Products,561880.375
+19,América,209,Cuba,2013,2013,02,Vegetable Products,900911.5
+19,América,209,Cuba,2014,2014,02,Vegetable Products,1164768.75
+19,América,209,Cuba,2015,2015,02,Vegetable Products,980669.25
+19,América,209,Cuba,2016,2016,02,Vegetable Products,405729.25
+19,América,210,Panamá,2011,2011,02,Vegetable Products,7750875.0
+19,América,210,Panamá,2012,2012,02,Vegetable Products,8870640.0
+19,América,210,Panamá,2013,2013,02,Vegetable Products,9597064.0
+19,América,210,Panamá,2014,2014,02,Vegetable Products,11772334.0
+19,América,210,Panamá,2015,2015,02,Vegetable Products,11413687.0
+19,América,210,Panamá,2016,2016,02,Vegetable Products,14140311.0
+19,América,211,Costa Rica,2011,2011,02,Vegetable Products,15106922.0
+19,América,211,Costa Rica,2012,2012,02,Vegetable Products,17116188.0
+19,América,211,Costa Rica,2013,2013,02,Vegetable Products,17269582.0
+19,América,211,Costa Rica,2014,2014,02,Vegetable Products,16858662.0
+19,América,211,Costa Rica,2015,2015,02,Vegetable Products,18773364.0
+19,América,211,Costa Rica,2016,2016,02,Vegetable Products,24974078.0
+19,América,212,Nicaragua,2011,2011,02,Vegetable Products,556457.375
+19,América,212,Nicaragua,2012,2012,02,Vegetable Products,919713.0625
+19,América,212,Nicaragua,2013,2013,02,Vegetable Products,907738.8125
+19,América,212,Nicaragua,2014,2014,02,Vegetable Products,1125356.5
+19,América,212,Nicaragua,2015,2015,02,Vegetable Products,979488.6875
+19,América,212,Nicaragua,2016,2016,02,Vegetable Products,1689145.375
+19,América,213,El Salvador,2011,2011,02,Vegetable Products,6808132.5
+19,América,213,El Salvador,2012,2012,02,Vegetable Products,8983354.0
+19,América,213,El Salvador,2013,2013,02,Vegetable Products,8535477.0
+19,América,213,El Salvador,2014,2014,02,Vegetable Products,10013776.0
+19,América,213,El Salvador,2015,2015,02,Vegetable Products,7400665.5
+19,América,213,El Salvador,2016,2016,02,Vegetable Products,8698403.0
+19,América,214,Honduras,2011,2011,02,Vegetable Products,5097423.0
+19,América,214,Honduras,2012,2012,02,Vegetable Products,6962599.5
+19,América,214,Honduras,2013,2013,02,Vegetable Products,5835380.0
+19,América,214,Honduras,2014,2014,02,Vegetable Products,4214102.5
+19,América,214,Honduras,2015,2015,02,Vegetable Products,4055145.25
+19,América,214,Honduras,2016,2016,02,Vegetable Products,4381447.0
+19,América,215,Guatemala,2011,2011,02,Vegetable Products,12947717.0
+19,América,215,Guatemala,2012,2012,02,Vegetable Products,12665672.0
+19,América,215,Guatemala,2013,2013,02,Vegetable Products,12575514.0
+19,América,215,Guatemala,2014,2014,02,Vegetable Products,14604149.0
+19,América,215,Guatemala,2015,2015,02,Vegetable Products,13651619.0
+19,América,215,Guatemala,2016,2016,02,Vegetable Products,15968658.0
+19,América,216,México,2011,2011,02,Vegetable Products,186718624.0
+19,América,216,México,2012,2012,02,Vegetable Products,148001168.0
+19,América,216,México,2013,2013,02,Vegetable Products,152781424.0
+19,América,216,México,2014,2014,02,Vegetable Products,140765312.0
+19,América,216,México,2015,2015,02,Vegetable Products,138581264.0
+19,América,216,México,2016,2016,02,Vegetable Products,119964800.0
+19,América,217,Guyana,2011,2011,02,Vegetable Products,52870.609375
+19,América,217,Guyana,2012,2012,02,Vegetable Products,136374.515625
+19,América,217,Guyana,2013,2013,02,Vegetable Products,117737.6796875
+19,América,217,Guyana,2014,2014,02,Vegetable Products,165099.0
+19,América,217,Guyana,2015,2015,02,Vegetable Products,39885.0
+19,América,217,Guyana,2016,2016,02,Vegetable Products,35752.0
+19,América,218,Ecuador,2011,2011,02,Vegetable Products,75190744.0
+19,América,218,Ecuador,2012,2012,02,Vegetable Products,84654240.0
+19,América,218,Ecuador,2013,2013,02,Vegetable Products,93986544.0
+19,América,218,Ecuador,2014,2014,02,Vegetable Products,97448696.0
+19,América,218,Ecuador,2015,2015,02,Vegetable Products,79986200.0
+19,América,218,Ecuador,2016,2016,02,Vegetable Products,65373388.0
+19,América,219,Perú,2011,2011,02,Vegetable Products,103831808.0
+19,América,219,Perú,2012,2012,02,Vegetable Products,108620880.0
+19,América,219,Perú,2013,2013,02,Vegetable Products,114505488.0
+19,América,219,Perú,2014,2014,02,Vegetable Products,102679336.0
+19,América,219,Perú,2015,2015,02,Vegetable Products,97346464.0
+19,América,219,Perú,2016,2016,02,Vegetable Products,90901840.0
+19,América,220,Brasil,2011,2011,02,Vegetable Products,181582128.0
+19,América,220,Brasil,2012,2012,02,Vegetable Products,218991696.0
+19,América,220,Brasil,2013,2013,02,Vegetable Products,236731712.0
+19,América,220,Brasil,2014,2014,02,Vegetable Products,247619472.0
+19,América,220,Brasil,2015,2015,02,Vegetable Products,222689216.0
+19,América,220,Brasil,2016,2016,02,Vegetable Products,239331088.0
+19,América,221,Bolivia,2011,2011,02,Vegetable Products,3806684.25
+19,América,221,Bolivia,2012,2012,02,Vegetable Products,4351519.5
+19,América,221,Bolivia,2013,2013,02,Vegetable Products,7006534.5
+19,América,221,Bolivia,2014,2014,02,Vegetable Products,9545389.0
+19,América,221,Bolivia,2015,2015,02,Vegetable Products,10641089.0
+19,América,221,Bolivia,2016,2016,02,Vegetable Products,11438379.0
+19,América,222,Paraguay,2011,2011,02,Vegetable Products,2234936.75
+19,América,222,Paraguay,2012,2012,02,Vegetable Products,2229386.0
+19,América,222,Paraguay,2013,2013,02,Vegetable Products,3044022.5
+19,América,222,Paraguay,2014,2014,02,Vegetable Products,3606746.0
+19,América,222,Paraguay,2015,2015,02,Vegetable Products,3202279.25
+19,América,222,Paraguay,2016,2016,02,Vegetable Products,4639115.5
+19,América,223,Uruguay,2011,2011,02,Vegetable Products,7377229.5
+19,América,223,Uruguay,2012,2012,02,Vegetable Products,7639324.5
+19,América,223,Uruguay,2013,2013,02,Vegetable Products,8307958.5
+19,América,223,Uruguay,2014,2014,02,Vegetable Products,8547101.0
+19,América,223,Uruguay,2015,2015,02,Vegetable Products,9831072.0
+19,América,223,Uruguay,2016,2016,02,Vegetable Products,8148963.5
+19,América,224,Argentina,2011,2011,02,Vegetable Products,50368856.0
+19,América,224,Argentina,2012,2012,02,Vegetable Products,52363596.0
+19,América,224,Argentina,2013,2013,02,Vegetable Products,57129004.0
+19,América,224,Argentina,2014,2014,02,Vegetable Products,58882768.0
+19,América,224,Argentina,2015,2015,02,Vegetable Products,68634600.0
+19,América,224,Argentina,2016,2016,02,Vegetable Products,68499136.0
+19,América,225,Estados Unidos de América,2011,2011,02,Vegetable Products,1580857344.0
+19,América,225,Estados Unidos de América,2012,2012,02,Vegetable Products,1469286016.0
+19,América,225,Estados Unidos de América,2013,2013,02,Vegetable Products,1723196032.0
+19,América,225,Estados Unidos de América,2014,2014,02,Vegetable Products,1591950592.0
+19,América,225,Estados Unidos de América,2015,2015,02,Vegetable Products,1583990656.0
+19,América,225,Estados Unidos de América,2016,2016,02,Vegetable Products,1735858944.0
+19,América,226,Canadá,2011,2011,02,Vegetable Products,114202176.0
+19,América,226,Canadá,2012,2012,02,Vegetable Products,124462600.0
+19,América,226,Canadá,2013,2013,02,Vegetable Products,161293616.0
+19,América,226,Canadá,2014,2014,02,Vegetable Products,147116336.0
+19,América,226,Canadá,2015,2015,02,Vegetable Products,132862960.0
+19,América,226,Canadá,2016,2016,02,Vegetable Products,161241648.0
+19,América,233,Santa Lucia y Islas  Occidentales,2014,2014,02,Vegetable Products,15303.0
+19,América,236,Belice,2011,2011,02,Vegetable Products,49747.7890625
+19,América,236,Belice,2012,2012,02,Vegetable Products,41950.48828125
+19,América,236,Belice,2013,2013,02,Vegetable Products,64222.1484375
+19,América,236,Belice,2014,2014,02,Vegetable Products,65230.91015625
+19,América,236,Belice,2015,2015,02,Vegetable Products,48975.171875
+19,América,236,Belice,2016,2016,02,Vegetable Products,48418.91015625
+19,América,243,Aruba,2014,2014,02,Vegetable Products,9590.0
+19,América,243,Aruba,2015,2015,02,Vegetable Products,26120.0
+19,América,243,Aruba,2016,2016,02,Vegetable Products,43101.96875
+19,América,244,Bermudas,2011,2011,02,Vegetable Products,26794.259765625
+19,América,244,Bermudas,2012,2012,02,Vegetable Products,24867.44921875
+19,América,250,Martinica,2011,2011,02,Vegetable Products,841081.25
+19,América,250,Martinica,2012,2012,02,Vegetable Products,831811.4375
+19,América,250,Martinica,2013,2013,02,Vegetable Products,1065631.5
+19,América,250,Martinica,2014,2014,02,Vegetable Products,1450021.25
+19,América,250,Martinica,2015,2015,02,Vegetable Products,910569.25
+19,América,250,Martinica,2016,2016,02,Vegetable Products,877892.875
+19,América,251,Puerto Rico,2011,2011,02,Vegetable Products,8114705.5
+19,América,251,Puerto Rico,2012,2012,02,Vegetable Products,7544302.0
+19,América,251,Puerto Rico,2013,2013,02,Vegetable Products,6580765.5
+19,América,251,Puerto Rico,2014,2014,02,Vegetable Products,7182216.5
+19,América,251,Puerto Rico,2015,2015,02,Vegetable Products,7265048.5
+19,América,251,Puerto Rico,2016,2016,02,Vegetable Products,7231726.5
+142,Asia,301,Jordania,2011,2011,02,Vegetable Products,2211594.75
+142,Asia,301,Jordania,2012,2012,02,Vegetable Products,1619244.0
+142,Asia,301,Jordania,2013,2013,02,Vegetable Products,1547584.0
+142,Asia,301,Jordania,2014,2014,02,Vegetable Products,472680.53125
+142,Asia,301,Jordania,2015,2015,02,Vegetable Products,894706.0
+142,Asia,301,Jordania,2016,2016,02,Vegetable Products,1145939.25
+142,Asia,302,Arabia Saudita,2011,2011,02,Vegetable Products,57953820.0
+142,Asia,302,Arabia Saudita,2012,2012,02,Vegetable Products,57838880.0
+142,Asia,302,Arabia Saudita,2013,2013,02,Vegetable Products,64024264.0
+142,Asia,302,Arabia Saudita,2014,2014,02,Vegetable Products,38918148.0
+142,Asia,302,Arabia Saudita,2015,2015,02,Vegetable Products,54461180.0
+142,Asia,302,Arabia Saudita,2016,2016,02,Vegetable Products,62608136.0
+142,Asia,303,Kuwait,2011,2011,02,Vegetable Products,6219528.0
+142,Asia,303,Kuwait,2012,2012,02,Vegetable Products,3993763.25
+142,Asia,303,Kuwait,2013,2013,02,Vegetable Products,5656412.5
+142,Asia,303,Kuwait,2014,2014,02,Vegetable Products,3604352.75
+142,Asia,303,Kuwait,2015,2015,02,Vegetable Products,4107448.25
+142,Asia,303,Kuwait,2016,2016,02,Vegetable Products,3816213.5
+142,Asia,304,Omán,2011,2011,02,Vegetable Products,1201561.25
+142,Asia,304,Omán,2012,2012,02,Vegetable Products,710293.6875
+142,Asia,304,Omán,2013,2013,02,Vegetable Products,1685821.625
+142,Asia,304,Omán,2014,2014,02,Vegetable Products,1745133.25
+142,Asia,304,Omán,2015,2015,02,Vegetable Products,1203790.125
+142,Asia,304,Omán,2016,2016,02,Vegetable Products,1344674.5
+142,Asia,305,Chipre,2011,2011,02,Vegetable Products,900142.375
+142,Asia,305,Chipre,2012,2012,02,Vegetable Products,722954.8125
+142,Asia,305,Chipre,2013,2013,02,Vegetable Products,252712.5625
+142,Asia,305,Chipre,2014,2014,02,Vegetable Products,459022.4375
+142,Asia,305,Chipre,2015,2015,02,Vegetable Products,570789.625
+142,Asia,305,Chipre,2016,2016,02,Vegetable Products,450786.71875
+142,Asia,306,Israel,2011,2011,02,Vegetable Products,1772870.625
+142,Asia,306,Israel,2012,2012,02,Vegetable Products,1254319.0
+142,Asia,306,Israel,2013,2013,02,Vegetable Products,2068938.125
+142,Asia,306,Israel,2014,2014,02,Vegetable Products,2140958.5
+142,Asia,306,Israel,2015,2015,02,Vegetable Products,5561407.0
+142,Asia,306,Israel,2016,2016,02,Vegetable Products,8932615.0
+142,Asia,307,Iraq,2011,2011,02,Vegetable Products,229410.0
+142,Asia,307,Iraq,2012,2012,02,Vegetable Products,256002.140625
+142,Asia,307,Iraq,2013,2013,02,Vegetable Products,352790.625
+142,Asia,307,Iraq,2014,2014,02,Vegetable Products,432019.59375
+142,Asia,307,Iraq,2015,2015,02,Vegetable Products,1794223.0
+142,Asia,307,Iraq,2016,2016,02,Vegetable Products,1487773.625
+142,Asia,309,Irán,2011,2011,02,Vegetable Products,12210507.0
+142,Asia,309,Irán,2012,2012,02,Vegetable Products,328595.40625
+142,Asia,309,Irán,2013,2013,02,Vegetable Products,611908.375
+142,Asia,309,Irán,2014,2014,02,Vegetable Products,882736.0
+142,Asia,309,Irán,2015,2015,02,Vegetable Products,429420.625
+142,Asia,309,Irán,2016,2016,02,Vegetable Products,690689.9375
+142,Asia,310,Siria,2011,2011,02,Vegetable Products,254012.0
+142,Asia,310,Siria,2012,2012,02,Vegetable Products,62951.0
+142,Asia,311,Libano,2011,2011,02,Vegetable Products,1746277.75
+142,Asia,311,Libano,2012,2012,02,Vegetable Products,1523383.25
+142,Asia,311,Libano,2013,2013,02,Vegetable Products,1973613.875
+142,Asia,311,Libano,2014,2014,02,Vegetable Products,1214890.875
+142,Asia,311,Libano,2015,2015,02,Vegetable Products,3136443.0
+142,Asia,311,Libano,2016,2016,02,Vegetable Products,1896214.25
+142,Asia,312,Qatar,2011,2011,02,Vegetable Products,1492410.0
+142,Asia,312,Qatar,2012,2012,02,Vegetable Products,2104192.5
+142,Asia,312,Qatar,2013,2013,02,Vegetable Products,2274443.0
+142,Asia,312,Qatar,2014,2014,02,Vegetable Products,1675237.875
+142,Asia,312,Qatar,2015,2015,02,Vegetable Products,3197396.25
+142,Asia,312,Qatar,2016,2016,02,Vegetable Products,3728523.0
+142,Asia,313,Bahrein,2011,2011,02,Vegetable Products,2316049.0
+142,Asia,313,Bahrein,2012,2012,02,Vegetable Products,2273694.5
+142,Asia,313,Bahrein,2013,2013,02,Vegetable Products,2861522.75
+142,Asia,313,Bahrein,2014,2014,02,Vegetable Products,1158787.375
+142,Asia,313,Bahrein,2015,2015,02,Vegetable Products,1518482.0
+142,Asia,313,Bahrein,2016,2016,02,Vegetable Products,1953099.0
+142,Asia,314,Sri Lanka,2011,2011,02,Vegetable Products,85996.0
+142,Asia,314,Sri Lanka,2012,2012,02,Vegetable Products,103260.0
+142,Asia,314,Sri Lanka,2013,2013,02,Vegetable Products,82065.703125
+142,Asia,314,Sri Lanka,2014,2014,02,Vegetable Products,108780.796875
+142,Asia,314,Sri Lanka,2015,2015,02,Vegetable Products,13326.25
+142,Asia,314,Sri Lanka,2016,2016,02,Vegetable Products,151304.9375
+142,Asia,315,Camboya,2011,2011,02,Vegetable Products,238134.0
+142,Asia,315,Camboya,2012,2012,02,Vegetable Products,323172.0
+142,Asia,315,Camboya,2013,2013,02,Vegetable Products,327114.0
+142,Asia,315,Camboya,2014,2014,02,Vegetable Products,412665.21875
+142,Asia,315,Camboya,2015,2015,02,Vegetable Products,58174.58984375
+142,Asia,315,Camboya,2016,2016,02,Vegetable Products,70225.8203125
+142,Asia,317,India,2011,2011,02,Vegetable Products,23473090.0
+142,Asia,317,India,2012,2012,02,Vegetable Products,20706784.0
+142,Asia,317,India,2013,2013,02,Vegetable Products,14592469.0
+142,Asia,317,India,2014,2014,02,Vegetable Products,40881184.0
+142,Asia,317,India,2015,2015,02,Vegetable Products,22627018.0
+142,Asia,317,India,2016,2016,02,Vegetable Products,33104822.0
+142,Asia,319,Tailandia,2011,2011,02,Vegetable Products,11099222.0
+142,Asia,319,Tailandia,2012,2012,02,Vegetable Products,11504294.0
+142,Asia,319,Tailandia,2013,2013,02,Vegetable Products,13819651.0
+142,Asia,319,Tailandia,2014,2014,02,Vegetable Products,12867678.0
+142,Asia,319,Tailandia,2015,2015,02,Vegetable Products,14836631.0
+142,Asia,319,Tailandia,2016,2016,02,Vegetable Products,18067788.0
+142,Asia,321,Bangladesh,2014,2014,02,Vegetable Products,455442.0625
+142,Asia,321,Bangladesh,2015,2015,02,Vegetable Products,53533.94921875
+142,Asia,321,Bangladesh,2016,2016,02,Vegetable Products,573119.5625
+142,Asia,324,Pakistán,2011,2011,02,Vegetable Products,2529064.0
+142,Asia,324,Pakistán,2012,2012,02,Vegetable Products,1968706.0
+142,Asia,324,Pakistán,2013,2013,02,Vegetable Products,4126393.5
+142,Asia,324,Pakistán,2014,2014,02,Vegetable Products,5737719.5
+142,Asia,325,Viet Nam,2011,2011,02,Vegetable Products,6270209.0
+142,Asia,325,Viet Nam,2012,2012,02,Vegetable Products,7799034.0
+142,Asia,325,Viet Nam,2013,2013,02,Vegetable Products,10015538.0
+142,Asia,325,Viet Nam,2014,2014,02,Vegetable Products,15632732.0
+142,Asia,325,Viet Nam,2015,2015,02,Vegetable Products,9276183.0
+142,Asia,325,Viet Nam,2016,2016,02,Vegetable Products,6139735.0
+142,Asia,328,Indonesia,2011,2011,02,Vegetable Products,15214471.0
+142,Asia,328,Indonesia,2012,2012,02,Vegetable Products,13864663.0
+142,Asia,328,Indonesia,2013,2013,02,Vegetable Products,5375617.5
+142,Asia,328,Indonesia,2014,2014,02,Vegetable Products,9520212.0
+142,Asia,328,Indonesia,2015,2015,02,Vegetable Products,5995695.0
+142,Asia,328,Indonesia,2016,2016,02,Vegetable Products,7769399.5
+142,Asia,329,Malasia,2011,2011,02,Vegetable Products,8198703.0
+142,Asia,329,Malasia,2012,2012,02,Vegetable Products,9125191.0
+142,Asia,329,Malasia,2013,2013,02,Vegetable Products,12825847.0
+142,Asia,329,Malasia,2014,2014,02,Vegetable Products,9081906.0
+142,Asia,329,Malasia,2015,2015,02,Vegetable Products,8536164.0
+142,Asia,329,Malasia,2016,2016,02,Vegetable Products,7748848.0
+142,Asia,330,Taiwán,2011,2011,02,Vegetable Products,105519376.0
+142,Asia,330,Taiwán,2012,2012,02,Vegetable Products,101151456.0
+142,Asia,330,Taiwán,2013,2013,02,Vegetable Products,116466880.0
+142,Asia,330,Taiwán,2014,2014,02,Vegetable Products,121490888.0
+142,Asia,330,Taiwán,2015,2015,02,Vegetable Products,91713056.0
+142,Asia,330,Taiwán,2016,2016,02,Vegetable Products,108545656.0
+142,Asia,331,Japón,2011,2011,02,Vegetable Products,114317800.0
+142,Asia,331,Japón,2012,2012,02,Vegetable Products,130836296.0
+142,Asia,331,Japón,2013,2013,02,Vegetable Products,149629776.0
+142,Asia,331,Japón,2014,2014,02,Vegetable Products,157373824.0
+142,Asia,331,Japón,2015,2015,02,Vegetable Products,146009264.0
+142,Asia,331,Japón,2016,2016,02,Vegetable Products,138570064.0
+142,Asia,332,Singapur,2011,2011,02,Vegetable Products,3900992.25
+142,Asia,332,Singapur,2012,2012,02,Vegetable Products,6082155.0
+142,Asia,332,Singapur,2013,2013,02,Vegetable Products,5543031.5
+142,Asia,332,Singapur,2014,2014,02,Vegetable Products,4574241.5
+142,Asia,332,Singapur,2015,2015,02,Vegetable Products,3880828.0
+142,Asia,332,Singapur,2016,2016,02,Vegetable Products,5436141.0
+142,Asia,333,Corea del Sur,2011,2011,02,Vegetable Products,87087728.0
+142,Asia,333,Corea del Sur,2012,2012,02,Vegetable Products,130871152.0
+142,Asia,333,Corea del Sur,2013,2013,02,Vegetable Products,158883280.0
+142,Asia,333,Corea del Sur,2014,2014,02,Vegetable Products,186276656.0
+142,Asia,333,Corea del Sur,2015,2015,02,Vegetable Products,187309184.0
+142,Asia,333,Corea del Sur,2016,2016,02,Vegetable Products,144656720.0
+142,Asia,334,Corea del Norte,2011,2011,02,Vegetable Products,282960.0
+142,Asia,334,Corea del Norte,2012,2012,02,Vegetable Products,22400.0
+142,Asia,334,Corea del Norte,2013,2013,02,Vegetable Products,47557.0
+142,Asia,334,Corea del Norte,2014,2014,02,Vegetable Products,197538.453125
+142,Asia,334,Corea del Norte,2015,2015,02,Vegetable Products,131702.078125
+142,Asia,335,Filipinas,2011,2011,02,Vegetable Products,7968558.5
+142,Asia,335,Filipinas,2012,2012,02,Vegetable Products,7883693.0
+142,Asia,335,Filipinas,2013,2013,02,Vegetable Products,8068762.5
+142,Asia,335,Filipinas,2014,2014,02,Vegetable Products,9281034.0
+142,Asia,335,Filipinas,2015,2015,02,Vegetable Products,9438732.0
+142,Asia,335,Filipinas,2016,2016,02,Vegetable Products,6196946.5
+142,Asia,336,China,2011,2011,02,Vegetable Products,164199920.0
+142,Asia,336,China,2012,2012,02,Vegetable Products,301451776.0
+142,Asia,336,China,2013,2013,02,Vegetable Products,482176384.0
+142,Asia,336,China,2014,2014,02,Vegetable Products,594256192.0
+142,Asia,336,China,2015,2015,02,Vegetable Products,641574144.0
+142,Asia,336,China,2016,2016,02,Vegetable Products,880339776.0
+142,Asia,337,Mongolia,2011,2011,02,Vegetable Products,127019.0
+142,Asia,337,Mongolia,2013,2013,02,Vegetable Products,56624.0
+142,Asia,337,Mongolia,2014,2014,02,Vegetable Products,93500.0
+142,Asia,337,Mongolia,2015,2015,02,Vegetable Products,211500.0
+142,Asia,337,Mongolia,2016,2016,02,Vegetable Products,43400.0
+142,Asia,341,Emiratos Arabes Unidos,2011,2011,02,Vegetable Products,49603016.0
+142,Asia,341,Emiratos Arabes Unidos,2012,2012,02,Vegetable Products,38729148.0
+142,Asia,341,Emiratos Arabes Unidos,2013,2013,02,Vegetable Products,38565416.0
+142,Asia,341,Emiratos Arabes Unidos,2014,2014,02,Vegetable Products,38292820.0
+142,Asia,341,Emiratos Arabes Unidos,2015,2015,02,Vegetable Products,36996920.0
+142,Asia,341,Emiratos Arabes Unidos,2016,2016,02,Vegetable Products,34849596.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2011,2011,02,Vegetable Products,145053408.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2012,2012,02,Vegetable Products,106971352.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2013,2013,02,Vegetable Products,65453568.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2014,2014,02,Vegetable Products,69697320.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2015,2015,02,Vegetable Products,38676948.0
+142,Asia,342,Hong Kong (Región administrativa especial de China),2016,2016,02,Vegetable Products,34975736.0
+142,Asia,344,Brunei,2015,2015,02,Vegetable Products,15490.0
+142,Asia,345,Macao,2016,2016,02,Vegetable Products,57100.0
+142,Asia,522,Turquia,2011,2011,02,Vegetable Products,53109416.0
+142,Asia,522,Turquia,2012,2012,02,Vegetable Products,30190652.0
+142,Asia,522,Turquia,2013,2013,02,Vegetable Products,42725696.0
+142,Asia,522,Turquia,2014,2014,02,Vegetable Products,64975400.0
+142,Asia,522,Turquia,2015,2015,02,Vegetable Products,106196400.0
+142,Asia,522,Turquia,2016,2016,02,Vegetable Products,62712728.0
+142,Asia,540,Armenia,2013,2013,02,Vegetable Products,169071.0
+142,Asia,540,Armenia,2014,2014,02,Vegetable Products,171814.0
+142,Asia,540,Armenia,2016,2016,02,Vegetable Products,17860.0
+142,Asia,541,Azerbaiyan,2011,2011,02,Vegetable Products,396598.3125
+142,Asia,541,Azerbaiyan,2012,2012,02,Vegetable Products,483268.5
+142,Asia,541,Azerbaiyan,2013,2013,02,Vegetable Products,295242.0
+142,Asia,541,Azerbaiyan,2014,2014,02,Vegetable Products,1172012.0
+142,Asia,541,Azerbaiyan,2015,2015,02,Vegetable Products,890259.375
+142,Asia,550,Georgia,2011,2011,02,Vegetable Products,733212.9375
+142,Asia,550,Georgia,2012,2012,02,Vegetable Products,981066.875
+142,Asia,550,Georgia,2013,2013,02,Vegetable Products,1533248.875
+142,Asia,550,Georgia,2014,2014,02,Vegetable Products,462863.0
+142,Asia,550,Georgia,2015,2015,02,Vegetable Products,511186.375
+142,Asia,550,Georgia,2016,2016,02,Vegetable Products,80539.0
+142,Asia,551,Kasajstan,2011,2011,02,Vegetable Products,312925.875
+142,Asia,551,Kasajstan,2012,2012,02,Vegetable Products,276374.0625
+142,Asia,551,Kasajstan,2013,2013,02,Vegetable Products,146172.46875
+142,Asia,551,Kasajstan,2014,2014,02,Vegetable Products,21240.83984375
+142,Asia,551,Kasajstan,2015,2015,02,Vegetable Products,34276.3984375
+142,Asia,551,Kasajstan,2016,2016,02,Vegetable Products,30243.919921875
+142,Asia,557,Tadjikistán,2012,2012,02,Vegetable Products,131784.0
+142,Asia,560,Uzbekistán,2011,2011,02,Vegetable Products,106789.2734375
+142,Asia,560,Uzbekistán,2013,2013,02,Vegetable Products,46528.4375
+142,Asia,560,Uzbekistán,2015,2015,02,Vegetable Products,22712.970703125
+142,Asia,560,Uzbekistán,2016,2016,02,Vegetable Products,44292.71875
+150,Europa,501,Portugal,2011,2011,02,Vegetable Products,16491704.0
+150,Europa,501,Portugal,2012,2012,02,Vegetable Products,13691650.0
+150,Europa,501,Portugal,2013,2013,02,Vegetable Products,17369548.0
+150,Europa,501,Portugal,2014,2014,02,Vegetable Products,23006542.0
+150,Europa,501,Portugal,2015,2015,02,Vegetable Products,22701146.0
+150,Europa,501,Portugal,2016,2016,02,Vegetable Products,22179460.0
+150,Europa,504,Italia,2011,2011,02,Vegetable Products,112689064.0
+150,Europa,504,Italia,2012,2012,02,Vegetable Products,110871192.0
+150,Europa,504,Italia,2013,2013,02,Vegetable Products,135112112.0
+150,Europa,504,Italia,2014,2014,02,Vegetable Products,133541896.0
+150,Europa,504,Italia,2015,2015,02,Vegetable Products,158964240.0
+150,Europa,504,Italia,2016,2016,02,Vegetable Products,162574912.0
+150,Europa,505,Francia,2011,2011,02,Vegetable Products,86790424.0
+150,Europa,505,Francia,2012,2012,02,Vegetable Products,96172752.0
+150,Europa,505,Francia,2013,2013,02,Vegetable Products,117383376.0
+150,Europa,505,Francia,2014,2014,02,Vegetable Products,118141600.0
+150,Europa,505,Francia,2015,2015,02,Vegetable Products,93439216.0
+150,Europa,505,Francia,2016,2016,02,Vegetable Products,93831496.0
+150,Europa,506,Irlanda,2011,2011,02,Vegetable Products,6409316.5
+150,Europa,506,Irlanda,2012,2012,02,Vegetable Products,4426377.5
+150,Europa,506,Irlanda,2013,2013,02,Vegetable Products,4305668.5
+150,Europa,506,Irlanda,2014,2014,02,Vegetable Products,6423747.5
+150,Europa,506,Irlanda,2015,2015,02,Vegetable Products,5791910.0
+150,Europa,506,Irlanda,2016,2016,02,Vegetable Products,7046766.0
+150,Europa,507,Dinamarca,2011,2011,02,Vegetable Products,29875402.0
+150,Europa,507,Dinamarca,2012,2012,02,Vegetable Products,33170570.0
+150,Europa,507,Dinamarca,2013,2013,02,Vegetable Products,44180552.0
+150,Europa,507,Dinamarca,2014,2014,02,Vegetable Products,41801200.0
+150,Europa,507,Dinamarca,2015,2015,02,Vegetable Products,45561860.0
+150,Europa,507,Dinamarca,2016,2016,02,Vegetable Products,30845940.0
+150,Europa,508,Suiza,2011,2011,02,Vegetable Products,14640328.0
+150,Europa,508,Suiza,2012,2012,02,Vegetable Products,9920277.0
+150,Europa,508,Suiza,2013,2013,02,Vegetable Products,10576221.0
+150,Europa,508,Suiza,2014,2014,02,Vegetable Products,11315159.0
+150,Europa,508,Suiza,2015,2015,02,Vegetable Products,13570582.0
+150,Europa,508,Suiza,2016,2016,02,Vegetable Products,12510112.0
+150,Europa,509,Austria,2011,2011,02,Vegetable Products,6060853.5
+150,Europa,509,Austria,2012,2012,02,Vegetable Products,4224365.0
+150,Europa,509,Austria,2013,2013,02,Vegetable Products,8231266.5
+150,Europa,509,Austria,2014,2014,02,Vegetable Products,8796785.0
+150,Europa,509,Austria,2015,2015,02,Vegetable Products,6441165.5
+150,Europa,509,Austria,2016,2016,02,Vegetable Products,4448971.5
+150,Europa,510,Reino Unido,2011,2011,02,Vegetable Products,200055056.0
+150,Europa,510,Reino Unido,2012,2012,02,Vegetable Products,195061856.0
+150,Europa,510,Reino Unido,2013,2013,02,Vegetable Products,208622000.0
+150,Europa,510,Reino Unido,2014,2014,02,Vegetable Products,238694704.0
+150,Europa,510,Reino Unido,2015,2015,02,Vegetable Products,232185056.0
+150,Europa,510,Reino Unido,2016,2016,02,Vegetable Products,258348160.0
+150,Europa,511,Suecia,2011,2011,02,Vegetable Products,10511167.0
+150,Europa,511,Suecia,2012,2012,02,Vegetable Products,9337608.0
+150,Europa,511,Suecia,2013,2013,02,Vegetable Products,10404014.0
+150,Europa,511,Suecia,2014,2014,02,Vegetable Products,12870849.0
+150,Europa,511,Suecia,2015,2015,02,Vegetable Products,9250121.0
+150,Europa,511,Suecia,2016,2016,02,Vegetable Products,11792181.0
+150,Europa,512,Finlandia,2011,2011,02,Vegetable Products,2564848.5
+150,Europa,512,Finlandia,2012,2012,02,Vegetable Products,2916166.5
+150,Europa,512,Finlandia,2013,2013,02,Vegetable Products,4107949.5
+150,Europa,512,Finlandia,2014,2014,02,Vegetable Products,5061184.5
+150,Europa,512,Finlandia,2015,2015,02,Vegetable Products,4073473.5
+150,Europa,512,Finlandia,2016,2016,02,Vegetable Products,3533974.0
+150,Europa,513,Noruega,2011,2011,02,Vegetable Products,14461218.0
+150,Europa,513,Noruega,2012,2012,02,Vegetable Products,13888590.0
+150,Europa,513,Noruega,2013,2013,02,Vegetable Products,13578197.0
+150,Europa,513,Noruega,2014,2014,02,Vegetable Products,17188844.0
+150,Europa,513,Noruega,2015,2015,02,Vegetable Products,16749412.0
+150,Europa,513,Noruega,2016,2016,02,Vegetable Products,11194722.0
+150,Europa,514,Bélgica,2011,2011,02,Vegetable Products,25505390.0
+150,Europa,514,Bélgica,2012,2012,02,Vegetable Products,18747118.0
+150,Europa,514,Bélgica,2013,2013,02,Vegetable Products,25700744.0
+150,Europa,514,Bélgica,2014,2014,02,Vegetable Products,24795160.0
+150,Europa,514,Bélgica,2015,2015,02,Vegetable Products,26686360.0
+150,Europa,514,Bélgica,2016,2016,02,Vegetable Products,25406212.0
+150,Europa,515,Holanda,2011,2011,02,Vegetable Products,330621024.0
+150,Europa,515,Holanda,2012,2012,02,Vegetable Products,342741472.0
+150,Europa,515,Holanda,2013,2013,02,Vegetable Products,448712608.0
+150,Europa,515,Holanda,2014,2014,02,Vegetable Products,435017984.0
+150,Europa,515,Holanda,2015,2015,02,Vegetable Products,387764256.0
+150,Europa,515,Holanda,2016,2016,02,Vegetable Products,402491776.0
+150,Europa,516,Islandia ,2011,2011,02,Vegetable Products,297712.59375
+150,Europa,516,Islandia ,2012,2012,02,Vegetable Products,268301.25
+150,Europa,516,Islandia ,2013,2013,02,Vegetable Products,378930.375
+150,Europa,516,Islandia ,2016,2016,02,Vegetable Products,130764.5
+150,Europa,517,España,2011,2011,02,Vegetable Products,102842008.0
+150,Europa,517,España,2012,2012,02,Vegetable Products,97537808.0
+150,Europa,517,España,2013,2013,02,Vegetable Products,103578560.0
+150,Europa,517,España,2014,2014,02,Vegetable Products,98938976.0
+150,Europa,517,España,2015,2015,02,Vegetable Products,97512880.0
+150,Europa,517,España,2016,2016,02,Vegetable Products,100102720.0
+150,Europa,518,Albania,2011,2011,02,Vegetable Products,52256.25
+150,Europa,518,Albania,2015,2015,02,Vegetable Products,28808.0
+150,Europa,519,Rumania,2011,2011,02,Vegetable Products,411232.53125
+150,Europa,519,Rumania,2012,2012,02,Vegetable Products,553133.125
+150,Europa,519,Rumania,2013,2013,02,Vegetable Products,8804607.0
+150,Europa,519,Rumania,2014,2014,02,Vegetable Products,4562034.0
+150,Europa,519,Rumania,2015,2015,02,Vegetable Products,303099.8125
+150,Europa,519,Rumania,2016,2016,02,Vegetable Products,116800.328125
+150,Europa,520,Grecia,2011,2011,02,Vegetable Products,6929719.0
+150,Europa,520,Grecia,2012,2012,02,Vegetable Products,4341487.0
+150,Europa,520,Grecia,2013,2013,02,Vegetable Products,3639246.75
+150,Europa,520,Grecia,2014,2014,02,Vegetable Products,1387214.25
+150,Europa,520,Grecia,2015,2015,02,Vegetable Products,2153296.0
+150,Europa,520,Grecia,2016,2016,02,Vegetable Products,2759812.0
+150,Europa,523,Malta,2011,2011,02,Vegetable Products,450835.40625
+150,Europa,523,Malta,2012,2012,02,Vegetable Products,427894.65625
+150,Europa,523,Malta,2013,2013,02,Vegetable Products,492033.59375
+150,Europa,523,Malta,2014,2014,02,Vegetable Products,541334.25
+150,Europa,523,Malta,2015,2015,02,Vegetable Products,454772.6875
+150,Europa,523,Malta,2016,2016,02,Vegetable Products,393840.90625
+150,Europa,526,Yugoslavia,2011,2011,02,Vegetable Products,46097.0
+150,Europa,526,Yugoslavia,2012,2012,02,Vegetable Products,62290.453125
+150,Europa,527,Bulgaria,2011,2011,02,Vegetable Products,378351.6875
+150,Europa,527,Bulgaria,2012,2012,02,Vegetable Products,193486.0
+150,Europa,527,Bulgaria,2013,2013,02,Vegetable Products,323628.25
+150,Europa,527,Bulgaria,2014,2014,02,Vegetable Products,790625.0
+150,Europa,527,Bulgaria,2015,2015,02,Vegetable Products,667701.8125
+150,Europa,527,Bulgaria,2016,2016,02,Vegetable Products,273492.1875
+150,Europa,528,Polonia,2011,2011,02,Vegetable Products,20039918.0
+150,Europa,528,Polonia,2012,2012,02,Vegetable Products,19799120.0
+150,Europa,528,Polonia,2013,2013,02,Vegetable Products,26146542.0
+150,Europa,528,Polonia,2014,2014,02,Vegetable Products,25069826.0
+150,Europa,528,Polonia,2015,2015,02,Vegetable Products,23769104.0
+150,Europa,528,Polonia,2016,2016,02,Vegetable Products,18708698.0
+150,Europa,530,Hungria,2011,2011,02,Vegetable Products,6739837.0
+150,Europa,530,Hungria,2012,2012,02,Vegetable Products,3638200.0
+150,Europa,530,Hungria,2013,2013,02,Vegetable Products,1682301.625
+150,Europa,530,Hungria,2014,2014,02,Vegetable Products,1966694.75
+150,Europa,530,Hungria,2015,2015,02,Vegetable Products,1576270.875
+150,Europa,530,Hungria,2016,2016,02,Vegetable Products,1839741.25
+150,Europa,532,Luxemburgo,2011,2011,02,Vegetable Products,900.0
+150,Europa,532,Luxemburgo,2014,2014,02,Vegetable Products,11971.5498046875
+150,Europa,532,Luxemburgo,2015,2015,02,Vegetable Products,9883.7197265625
+150,Europa,542,Belarús,2011,2011,02,Vegetable Products,81705.0
+150,Europa,542,Belarús,2012,2012,02,Vegetable Products,107628.0703125
+150,Europa,542,Belarús,2013,2013,02,Vegetable Products,142099.25
+150,Europa,542,Belarús,2014,2014,02,Vegetable Products,375614.375
+150,Europa,542,Belarús,2015,2015,02,Vegetable Products,178699.5
+150,Europa,542,Belarús,2016,2016,02,Vegetable Products,1579452.0
+150,Europa,543,Bosnia y Herzegovina,2011,2011,02,Vegetable Products,143495.5625
+150,Europa,543,Bosnia y Herzegovina,2012,2012,02,Vegetable Products,230898.15625
+150,Europa,543,Bosnia y Herzegovina,2013,2013,02,Vegetable Products,55000.0
+150,Europa,543,Bosnia y Herzegovina,2014,2014,02,Vegetable Products,333794.5625
+150,Europa,543,Bosnia y Herzegovina,2015,2015,02,Vegetable Products,58849.0
+150,Europa,543,Bosnia y Herzegovina,2016,2016,02,Vegetable Products,49102.83984375
+150,Europa,544,República Checa,2011,2011,02,Vegetable Products,1870262.25
+150,Europa,544,República Checa,2012,2012,02,Vegetable Products,1867351.25
+150,Europa,544,República Checa,2013,2013,02,Vegetable Products,2173357.5
+150,Europa,544,República Checa,2014,2014,02,Vegetable Products,1839083.375
+150,Europa,544,República Checa,2015,2015,02,Vegetable Products,1621456.25
+150,Europa,544,República Checa,2016,2016,02,Vegetable Products,1443054.75
+150,Europa,545,República Eslovaca,2011,2011,02,Vegetable Products,9175.0
+150,Europa,545,República Eslovaca,2012,2012,02,Vegetable Products,2054663.625
+150,Europa,545,República Eslovaca,2013,2013,02,Vegetable Products,2444863.25
+150,Europa,545,República Eslovaca,2014,2014,02,Vegetable Products,2659974.25
+150,Europa,545,República Eslovaca,2015,2015,02,Vegetable Products,818021.0
+150,Europa,545,República Eslovaca,2016,2016,02,Vegetable Products,749701.8125
+150,Europa,546,Serbia,2015,2015,02,Vegetable Products,29190.0
+150,Europa,546,Serbia,2016,2016,02,Vegetable Products,94504.6875
+150,Europa,547,Croacia,2011,2011,02,Vegetable Products,101195.0
+150,Europa,547,Croacia,2012,2012,02,Vegetable Products,159818.78125
+150,Europa,547,Croacia,2013,2013,02,Vegetable Products,55673.3515625
+150,Europa,547,Croacia,2015,2015,02,Vegetable Products,586475.0
+150,Europa,547,Croacia,2016,2016,02,Vegetable Products,247754.0
+150,Europa,548,Eslovenia,2011,2011,02,Vegetable Products,1470911.0
+150,Europa,548,Eslovenia,2012,2012,02,Vegetable Products,495216.15625
+150,Europa,548,Eslovenia,2013,2013,02,Vegetable Products,656131.5625
+150,Europa,548,Eslovenia,2014,2014,02,Vegetable Products,672012.1875
+150,Europa,548,Eslovenia,2015,2015,02,Vegetable Products,1550785.875
+150,Europa,548,Eslovenia,2016,2016,02,Vegetable Products,1092372.25
+150,Europa,549,Estonia,2011,2011,02,Vegetable Products,918402.625
+150,Europa,549,Estonia,2012,2012,02,Vegetable Products,529032.0
+150,Europa,549,Estonia,2013,2013,02,Vegetable Products,815717.0625
+150,Europa,549,Estonia,2014,2014,02,Vegetable Products,694180.0
+150,Europa,549,Estonia,2015,2015,02,Vegetable Products,507582.0625
+150,Europa,549,Estonia,2016,2016,02,Vegetable Products,955781.0
+150,Europa,553,Letonia,2011,2011,02,Vegetable Products,1267786.5
+150,Europa,553,Letonia,2012,2012,02,Vegetable Products,2233237.5
+150,Europa,553,Letonia,2013,2013,02,Vegetable Products,2830030.75
+150,Europa,553,Letonia,2014,2014,02,Vegetable Products,1952498.625
+150,Europa,553,Letonia,2015,2015,02,Vegetable Products,2349246.5
+150,Europa,553,Letonia,2016,2016,02,Vegetable Products,1946396.25
+150,Europa,554,Lituania,2011,2011,02,Vegetable Products,6010515.5
+150,Europa,554,Lituania,2012,2012,02,Vegetable Products,5561663.0
+150,Europa,554,Lituania,2013,2013,02,Vegetable Products,6582405.5
+150,Europa,554,Lituania,2014,2014,02,Vegetable Products,5186327.0
+150,Europa,554,Lituania,2015,2015,02,Vegetable Products,5516263.5
+150,Europa,554,Lituania,2016,2016,02,Vegetable Products,7575701.5
+150,Europa,555,Macedonia,2014,2014,02,Vegetable Products,554.8800048828125
+150,Europa,559,Ucrania,2011,2011,02,Vegetable Products,3207585.25
+150,Europa,559,Ucrania,2012,2012,02,Vegetable Products,5363011.0
+150,Europa,559,Ucrania,2013,2013,02,Vegetable Products,3664784.0
+150,Europa,559,Ucrania,2014,2014,02,Vegetable Products,1363347.25
+150,Europa,559,Ucrania,2015,2015,02,Vegetable Products,684031.625
+150,Europa,559,Ucrania,2016,2016,02,Vegetable Products,522957.90625
+150,Europa,562,Rusia,2011,2011,02,Vegetable Products,154212576.0
+150,Europa,562,Rusia,2012,2012,02,Vegetable Products,154519808.0
+150,Europa,562,Rusia,2013,2013,02,Vegetable Products,184138480.0
+150,Europa,562,Rusia,2014,2014,02,Vegetable Products,129529632.0
+150,Europa,562,Rusia,2015,2015,02,Vegetable Products,122534256.0
+150,Europa,562,Rusia,2016,2016,02,Vegetable Products,89652832.0
+150,Europa,563,Alemania,2011,2011,02,Vegetable Products,122535984.0
+150,Europa,563,Alemania,2012,2012,02,Vegetable Products,104864656.0
+150,Europa,563,Alemania,2013,2013,02,Vegetable Products,115549272.0
+150,Europa,563,Alemania,2014,2014,02,Vegetable Products,116208736.0
+150,Europa,563,Alemania,2015,2015,02,Vegetable Products,111749984.0
+150,Europa,563,Alemania,2016,2016,02,Vegetable Products,96454168.0
